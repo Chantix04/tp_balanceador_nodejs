@@ -1,4 +1,4 @@
-Tp3 -- Balanceador de Carga con sitios nodejs
+## Tp3 -- Balanceador de Carga con sitios nodejs || También sirve para el tp4 -- Crear nuestras propias imágenes con dockerfile, ya que tiene archivos dockerfile donde creamos imagenes
 
 1)- Creo una nueva red con este comando: docker network create rednode
 
